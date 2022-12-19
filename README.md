@@ -1,16 +1,13 @@
 # sugar_shack
 
-A new Flutter project.
+Sugar Shack app in an MVP for a flutter app e-commerce
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To start the project 
 
-A few resources to get you started if this is your first Flutter project:
+``open -a Simulator``
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+``flutter run``
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://docs.flutter.dev/get-started/install/macos for more info
